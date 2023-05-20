@@ -1,0 +1,9 @@
+* lev
+
+libev bindings for Common Lisp
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/fukamachi/lev.git |
+| commit  | 7d03c68                                  |
+| systems | lev                                      |
+|---------+------------------------------------------|
