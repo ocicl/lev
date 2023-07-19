@@ -4,6 +4,6 @@ libev bindings for Common Lisp
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/fukamachi/lev.git |
-| commit  | 7d03c68                                  |
+| commit  | b43e700                                  |
 | systems | lev                                      |
 |---------+------------------------------------------|
